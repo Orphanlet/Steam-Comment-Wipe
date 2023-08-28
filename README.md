@@ -12,8 +12,8 @@ If you're on chrome or firefox, head over to extensions and enable developer mod
 
 ![840811572_preview_xtAsRfi](https://github.com/Orphanlet/Steam-Comment-Wipe/assets/143373638/b89e6663-a807-4fec-8f78-f8cc3d20de1c)
 
-Delete - Just deletes the message you are hovering (normal)\
-Delete Everything - Deletes all of the messages in the thread\
-Delete Everything From This Author - Deletes only messages from the user whom you are hovering.\
+Delete - Just deletes the message you are hovering (normal) :- 
+Delete Everything - Deletes all of the messages in the thread  :- 
+Delete Everything From This Author - Deletes only messages from the user whom you are hovering.  :- 
 
 ![840811572_preview_Up0gchR](https://github.com/Orphanlet/Steam-Comment-Wipe/assets/143373638/dee796c1-de18-40bf-84be-4984973b4692)
